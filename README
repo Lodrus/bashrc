@@ -1,1 +1,1 @@
-curl -Ls --insecure https://raw.githubusercontent.com/Lodrus/bashrc/master/.bashrc >> ~/.bashrc
+curl -L --insecure https://raw.githubusercontent.com/Lodrus/bashrc/master/.bashrc >> ~/.bashrc

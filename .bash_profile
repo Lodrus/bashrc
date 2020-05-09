@@ -2,6 +2,7 @@
 alias grep='grep --color=auto'
 
 # kubectl
+# https://github.com/Lodrus/kubectl-aliases
 alias k='kubectl'
 alias ka='kubectl apply --recursive -f'
 alias kak='kubectl apply -k'

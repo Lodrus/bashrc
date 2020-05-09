@@ -1,1 +1,2 @@
 curl -L --insecure https://raw.githubusercontent.com/Lodrus/bashrc/master/.bashrc >> ~/.bashrc
+curl -L --insecure https://raw.githubusercontent.com/amix/vimrc/master/vimrcs/basic.vim >> ~/.vimrc

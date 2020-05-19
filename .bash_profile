@@ -1,5 +1,5 @@
 # other
-alias grep='grep --color=auto'
+alias grep='grep -i --color=auto'
 
 # kubectl
 # https://github.com/Lodrus/kubectl-aliases

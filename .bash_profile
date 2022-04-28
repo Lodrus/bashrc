@@ -1,5 +1,9 @@
 # other
+alias flush='sudo killall -HUP mDNSResponder;sudo dscacheutil -flushcache'
 alias grep='grep -i --color=auto'
+alias python='python3'
+export PATH="/Users/alex.ramsay/Library/Python/3.8/bin${PATH:+:${PATH}}"
+export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 
 # kubectl
 [ -f ~/.kubectl_aliases ] && source ~/.kubectl_aliases
